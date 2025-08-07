@@ -4,9 +4,9 @@ This project involves analyzing unemployment trends in India using Python. The a
 
 # Technologies Used:
 - Python
-- Pandas & NumPy
-- Matplotlib & Seaborn
-- Gradio (for deployment)
+- Pandas & NumPy – data manipulation and analysis
+- Matplotlib & Seaborn – data visualization
+- Gradio – deployment of interactive web interface 
 
 # Files Included:
 - `unemployment_analysis.ipynb`: Jupyter Notebook with code
@@ -15,10 +15,10 @@ This project involves analyzing unemployment trends in India using Python. The a
 - `demo_video_link.txt`: Contains Google Drive link to demo video
 
 # Features:
-- Data cleaning and preprocessing
-- Visualizations of unemployment trends
-- Analysis by state and date
-- Interactive Gradio interface for insights
+- Cleaned and preprocessed unemployment data for analysis
+- Visualizations of unemployment rate trends over time
+- Analysis by region (e.g., North, South, East) and date
+- Interactive Gradio interface for real-time data exploration
 
 # Video Demo:
-The working Gradio model demo can be viewed ()
+The working Gradio model demo can be viewed (https://drive.google.com/file/d/1qiNXNbF0_9ZtojatXRHsJ2VuUURDAi2l/view?usp=drive_link).
